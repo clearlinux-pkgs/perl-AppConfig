@@ -4,7 +4,7 @@
 #
 Name     : perl-AppConfig
 Version  : 1.71
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/N/NE/NEILB/AppConfig-1.71.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/N/NE/NEILB/AppConfig-1.71.tar.gz
 Summary  : 'AppConfig is a bundle of Perl5 modules for reading configuration files and parsing command line arguments.'
@@ -103,10 +103,10 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/AppConfig.pm
-/usr/lib/perl5/vendor_perl/5.30.2/AppConfig/Args.pm
-/usr/lib/perl5/vendor_perl/5.30.2/AppConfig/CGI.pm
-/usr/lib/perl5/vendor_perl/5.30.2/AppConfig/File.pm
-/usr/lib/perl5/vendor_perl/5.30.2/AppConfig/Getopt.pm
-/usr/lib/perl5/vendor_perl/5.30.2/AppConfig/State.pm
-/usr/lib/perl5/vendor_perl/5.30.2/AppConfig/Sys.pm
+/usr/lib/perl5/vendor_perl/5.30.3/AppConfig.pm
+/usr/lib/perl5/vendor_perl/5.30.3/AppConfig/Args.pm
+/usr/lib/perl5/vendor_perl/5.30.3/AppConfig/CGI.pm
+/usr/lib/perl5/vendor_perl/5.30.3/AppConfig/File.pm
+/usr/lib/perl5/vendor_perl/5.30.3/AppConfig/Getopt.pm
+/usr/lib/perl5/vendor_perl/5.30.3/AppConfig/State.pm
+/usr/lib/perl5/vendor_perl/5.30.3/AppConfig/Sys.pm
