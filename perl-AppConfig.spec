@@ -103,10 +103,10 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.32.1/AppConfig.pm
-/usr/lib/perl5/vendor_perl/5.32.1/AppConfig/Args.pm
-/usr/lib/perl5/vendor_perl/5.32.1/AppConfig/CGI.pm
-/usr/lib/perl5/vendor_perl/5.32.1/AppConfig/File.pm
-/usr/lib/perl5/vendor_perl/5.32.1/AppConfig/Getopt.pm
-/usr/lib/perl5/vendor_perl/5.32.1/AppConfig/State.pm
-/usr/lib/perl5/vendor_perl/5.32.1/AppConfig/Sys.pm
+/usr/lib/perl5/vendor_perl/5.34.0/AppConfig.pm
+/usr/lib/perl5/vendor_perl/5.34.0/AppConfig/Args.pm
+/usr/lib/perl5/vendor_perl/5.34.0/AppConfig/CGI.pm
+/usr/lib/perl5/vendor_perl/5.34.0/AppConfig/File.pm
+/usr/lib/perl5/vendor_perl/5.34.0/AppConfig/Getopt.pm
+/usr/lib/perl5/vendor_perl/5.34.0/AppConfig/State.pm
+/usr/lib/perl5/vendor_perl/5.34.0/AppConfig/Sys.pm
