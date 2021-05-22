@@ -4,7 +4,7 @@
 #
 Name     : perl-AppConfig
 Version  : 1.71
-Release  : 8
+Release  : 9
 URL      : https://cpan.metacpan.org/authors/id/N/NE/NEILB/AppConfig-1.71.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/N/NE/NEILB/AppConfig-1.71.tar.gz
 Summary  : 'AppConfig is a bundle of Perl5 modules for reading configuration files and parsing command line arguments.'
